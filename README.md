@@ -6,5 +6,5 @@ At traffic signals there is always high chance of accident due to breaking traff
 important to manage it well and continuously monitor it.
 
 One solution of these problems may be if a system should detect persons walking beside road /crossing signals, vehicles passing through street, traffic signs 
-such as speed breaker, speed limit, Uturn prohibited than and help driver by converting detected objects into audio signals so that even if driver can not 
+such as speed breaker, speed limit, U-turn prohibited than and help driver by converting detected objects into audio signals so that even if driver can not 
 see objects system wolud remind them. This concept can also be used in automatic driving applications. This system can also be used to monitor traffic on the road.
