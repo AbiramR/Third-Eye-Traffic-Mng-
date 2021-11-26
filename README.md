@@ -1,5 +1,7 @@
-# Traffic-Management          !!!!! NOT WORKING
+# Traffic-Management         
 
+
+# !!!!! POOR ACCURACY
 
 Due to increase in population, number of vehicles on the road has increased. Also there is a rush on the road specially at traffic while crossing signals.
 At traffic signals there is always high chance of accident due to breaking traffic rules by drivers and pedestrians. Therefore to insure safety at road it is
